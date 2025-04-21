@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Python](https://img.shields.io/badge/Python-gray?style=flat)
+![Python](https://img.shields.io/badge/lauguage-python-blue?logo=Ionic&style=flat&logoColor=white)
 <!--
 **ruriell/ruriell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
