@@ -52,6 +52,8 @@ Additionals of what I've used in the past:
 <br>
 -->
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin-white&logoColor=fff)
+
 
 ## 🔧 Technologies & Tools
 
